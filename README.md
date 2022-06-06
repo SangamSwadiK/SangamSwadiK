@@ -23,15 +23,20 @@
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <div align="center">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=SangamSwadiK&layout=compact&card_width=250&hide_border=true&theme=dracula">
+    <h2> Github Stats </h2>
 </div>
 
 <div align="center">
- 
+    
 ![](https://komarev.com/ghpvc/?username=SangamSwadiK&color=blue&style=for-the-badge)
-
+    
 </div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SangamSwadiK&layout=compact&card_width=250&hide_border=true&theme=dracula">
+</div>
+
+
 
 
 <div align="center">
