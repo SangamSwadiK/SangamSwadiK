@@ -7,7 +7,6 @@
 <div align="center">
     <h2>About Me</h2>
     <p>Im currently working on applied Machine learning and Explainability.</p>
-    <p>In the past I've worked with multiple clients on improving their existing solution resulting in improved ROI</p>
 </div>
 
 
