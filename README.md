@@ -13,7 +13,6 @@
 <!----------------------------------------------------Social Media------------------------------------------->
 <div align="center">
  <h2>Social media</h2>
- <p> If you are interested in collaborating on open source projects or want to know more about my career please dont hesitate to connect with me </p>
 <a href="https://github.com/SangamSwadiK"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.hackerrank.com/sangamswadi_k18"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
