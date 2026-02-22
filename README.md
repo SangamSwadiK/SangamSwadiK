@@ -5,6 +5,5 @@
 
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
-    <h2>About Me</h2>
     <p>Im currently working on applied Machine learning and Explainability.</p>
 </div>
